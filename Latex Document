@@ -1,5 +1,15 @@
             
-Describe 5 data imputation techniques with case study.
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Assignment 1}
+\author{Pranjal Sharma - 22111039}
+\date{12th July 2024}
+
+\begin{document}
+\maketitle
+
+\subsection*{Question:}Describe 5 data imputation techniques with case study.
 \\
 
 \subsection*{1) Mean/Median Imputation}
